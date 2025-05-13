@@ -42,7 +42,7 @@
                 <h2>Sistema de Monitoramento 24 horas</h2>
                 <div>
                     <button class="btn-gradiente">Contrate agora</button>
-                    <img class= "imglogo"src="img/verificado.png" alt="logo do PixelTech">
+                    <img class= "imglogo" src="img/verificado.png" alt="logo do PixelTech">
                 </div>
             </div>
         <!--FIM texto do conteudo-->
