@@ -18,11 +18,11 @@
                       <a href="index.html">PixelTech& Co.</a>
                     </div>
                     <ul class="ul">
-                        <li><a href="index.html">Inicial</a></li>
-                        <li><a href="produtos.html">Produtos</a></li>
-                        <li><a href="orcamento.html">Orçamento</a></li>
-                        <li><a href="sobre.html">Sobre</a></li>
-                        <li><a href="contato.html">Contato</a></li>
+                        <li><a href="index.jsp">Inicial</a></li>
+                        <li><a href="produtos.jsp">Produtos</a></li>
+                        <li><a href="orcamento.jsp">Orçamento</a></li>
+                        <li><a href="sobre.jsp">Sobre</a></li>
+                        <li><a href="contato.jsp">Contato</a></li>
                     </ul>
                     <div class="menu-icon">
                         <img src="img/menu.png" alt="icone menu">
